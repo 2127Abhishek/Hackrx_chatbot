@@ -1,0 +1,7 @@
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+httpx==0.25.2
+pypdf==5.1.0
+google-generativeai
+python-multipart==0.0.12
+pydantic==1.10.13
